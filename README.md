@@ -31,3 +31,10 @@ No. For flavor, there are a few additional plugins that edit Umbra's actual ench
 Completely safe to install, update, or remove mid-playthrough.
 
 Compatible with any mod that edits Umbra or Umbra Sword - the script relies purely on sword's ID.
+
+All weapons from MD's [Umbra Blademaster](https://www.nexusmods.com/morrowind/mods/43275), both melee and thrown, also support this new behavior.
+
+## Consider Also
+
+- [Modern Mehrunes' Razor](https://www.nexusmods.com/morrowind/mods/57273) by me - Adds an instakill chance to Mehrunes' Razor.
+- [Umbra- Blademaster](https://www.nexusmods.com/morrowind/mods/43275) by Melchior Dahrk - Overhauls everyone's favorite, death-seeking Orsimer into a truly challenging opponent with scripted behavior and new equipment.
